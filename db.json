@@ -1,5 +1,6 @@
 {
-  "dogs": [{
+  "dogs": [
+    {
       "dogName": "Luca",
       "dogBreed": "German Shepherd",
       "id": 1
@@ -10,7 +11,8 @@
       "id": 2
     }
   ],
-  "cats": [{
+  "cats": [
+    {
       "catName": "Stanley",
       "catBreed": "Tabby",
       "id": 1
@@ -21,10 +23,138 @@
       "id": 2
     }
   ],
-  "users": [],
-  "robots": [{
-    "robotName": "C8-09S100K",
-    "robotType": "Human Assistant",
-    "id": 9000
-  }]
+  "users": [
+    {
+      "name": "jake",
+      "email": "jake@jake.com",
+      "id": 1
+    },
+    {
+      "name": "jake",
+      "email": "jake@jake.com",
+      "id": 2
+    },
+    {
+      "name": "jake",
+      "email": "jake@jake.com",
+      "id": 3
+    },
+    {
+      "name": "jake",
+      "email": "jake@jake.com",
+      "id": 4
+    },
+    {
+      "name": "jake",
+      "email": "jake@jake.com",
+      "id": 5
+    },
+    {
+      "name": "jake",
+      "email": "jake@jake.com",
+      "id": 6
+    },
+    {
+      "name": "jake",
+      "email": "jake@jake.com",
+      "id": 7
+    },
+    {
+      "name": "jake",
+      "email": "jake@jake.com",
+      "id": 8
+    },
+    {
+      "name": "jake",
+      "email": "jake@jake.com",
+      "id": 9
+    },
+    {
+      "name": "jake",
+      "email": "jake@jake.com",
+      "id": 10
+    },
+    {
+      "name": "jake",
+      "email": "jake@jake.com",
+      "id": 11
+    },
+    {
+      "name": "jake",
+      "email": "jake@jake.com",
+      "id": 12
+    },
+    {
+      "name": "jake",
+      "email": "jake@jake.com",
+      "id": 13
+    },
+    {
+      "name": "jake",
+      "email": "jake@jake.com",
+      "id": 14
+    },
+    {
+      "name": "jake",
+      "email": "jake@jake.com",
+      "id": 15
+    },
+    {
+      "name": "jake",
+      "email": "jake@jake.com",
+      "id": 16
+    },
+    {
+      "name": "jake",
+      "email": "jake@jake.com",
+      "id": 17
+    },
+    {
+      "name": "jake",
+      "email": "jake@jake.com",
+      "id": 18
+    },
+    {
+      "name": "jake",
+      "email": "jake@jake.com",
+      "id": 19
+    },
+    {
+      "name": "jake",
+      "email": "jake@jake.com",
+      "id": 20
+    },
+    {
+      "name": "jake",
+      "email": "jake@jake.com",
+      "id": 21
+    },
+    {
+      "name": "jake",
+      "email": "jake@jake.com",
+      "id": 22
+    },
+    {
+      "name": "jake",
+      "email": "jake@jake.com",
+      "id": 23
+    },
+    {
+      "name": "jake",
+      "email": "jake@jake.com",
+      "id": 24
+    },
+    {
+      "name": "jake",
+      "email": "jake@jake.com",
+      "id": 25
+    }
+  ],
+  "robots": [
+    {
+      "robotName": "C8-09S100K",
+      "robotType": "Human Assistant",
+      "id": 9000
+    }
+  ]
 }
